@@ -2,6 +2,7 @@
 
 I like:
 - code
+- cake
 - maths
 - music 
 
