@@ -7,4 +7,4 @@ I like:
 
 Member of [Fluids Group](https://www.sheffield.ac.uk/maths/research/fluid)
 
-![alt text](https://raw.githubusercontent.com/RSE-Sheffield)
+![openpipeflow](https://openpipeflow.org/images/8/8e/OpenPFlogo2.png)
